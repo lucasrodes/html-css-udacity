@@ -1,1 +1,2 @@
 # html-css-udacity
+This repo contains some projects that are proposed in the [Intro to HTML and CSS course](https://www.udacity.com/course/intro-to-html-and-css--ud304) from [Udacity](https://www.udacity.com).
